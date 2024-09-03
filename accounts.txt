@@ -1,0 +1,4 @@
+Acct  Name            City               PhonePassword   Balance
+1234  sorna           cbe           1234554321 121212  11988.00
+4321  bala            erode         6789009876 909090   8912.00
+4343  ramu            cbe           7899877878 767676  12000.00
